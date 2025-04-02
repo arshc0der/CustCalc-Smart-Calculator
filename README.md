@@ -50,7 +50,7 @@ Here’s a preview of CustCalc in action:
 ## **🔒 Privacy Policy**  
 CustCalc Smart Calculator does **not collect, store, or share any personal data**. It operates **entirely offline** and does not transmit data to any external servers.  
 
-For more details, read the full **[Privacy Policy](https://github.com/arshc0der/CustCalc-Smart-Calculator/blob/main/PRIVACY_POLICY.md).**  
+For more details, read the full **[Privacy Policy](https://github.com/arshc0der/CustCalc-Smart-Calculator/blob/main/privacy-policy.md).**  
 
 ---
 
