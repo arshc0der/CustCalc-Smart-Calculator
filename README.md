@@ -16,19 +16,16 @@
   <img src="https://img.shields.io/badge/Download%20on%20Microsoft%20Store-Available-blue.svg" alt="Microsoft Store Badge"/>
 </p>
 
-<!-- Microsoft Store Badge for Download -->
-<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
-<ms-store-badge
-  productid="9n3m9k3b8b0b"
-  productname="CustCalc Smart Calculator"
-  window-mode="direct"
-  theme="auto"
-  size="large"
-  language="en-us"
-  animation="on">
-</ms-store-badge>
-
 [![Last Commit](https://img.shields.io/github/last-commit/arshc0der/CustCalc-Smart-Calculator)](https://github.com/arshc0der/CustCalc-Smart-Calculator/commits/main)
+
+## 📥 **Download Stable Version**
+
+**For the most secure and verified download experience, please use the official Microsoft Store.**
+
+<!-- Microsoft Store Badge for Download -->
+<a href="https://apps.microsoft.com/detail/9n3m9k3b8b0b?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 ---
 
