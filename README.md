@@ -1,4 +1,24 @@
-# **CustCalc – A Powerful & Lightweight Calculator**  
+# 🧮 **CustCalc – A Powerful & Lightweight Calculator**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-Beta-yellow.svg" alt="Status Badge"/>
+  <img src="https://img.shields.io/github/license/arshc0der/CustCalc-Smart-Calculator?color=green" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/platform-Windows-0078D4.svg" alt="Windows Badge"/>
+  <img src="https://img.shields.io/badge/tech-Qt%20C++-%23026A2B.svg" alt="Qt C++ Badge"/>
+  <img src="https://img.shields.io/badge/open%20source-Yes-brightgreen.svg" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/github/stars/arshc0der/CustCalc-Smart-Calculator?style=social" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/arshc0der/CustCalc-Smart-Calculator?style=social" alt="Forks Badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License Badge"/>
+  <img src="https://img.shields.io/badge/Build-passing-brightgreen.svg" alt="CI/CD Status Badge"/>
+  <img src="https://img.shields.io/badge/Contributions-welcome-orange.svg" alt="Contributions Badge"/>
+  <img src="https://img.shields.io/badge/Windows%20Support-Yes-0078D4.svg" alt="Windows Support Badge"/>
+  <img src="https://img.shields.io/badge/Linux%20Support-Comming%20Soon-FFCA28.svg" alt="Linux Support Badge"/>
+  <img src="https://img.shields.io/badge/Download%20on%20Microsoft%20Store-Available-blue.svg" alt="Microsoft Store Badge"/>
+</p>
+
+[![Last Commit](https://img.shields.io/github/last-commit/arshc0der/CustCalc-Smart-Calculator)](https://github.com/arshc0der/CustCalc-Smart-Calculator/commits/main)
+
+---
 
 CustCalc is a **modern, user-friendly, and efficient calculator** built using **Qt C++**. Designed for both basic and advanced calculations, it also includes a **unit converter** to handle multiple types of conversions.  
 
